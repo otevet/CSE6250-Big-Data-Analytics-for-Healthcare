@@ -1,5 +1,5 @@
 # CSE6250_project_team2  
-Natural Language Processing on MIMIC III dataset - CSE6250 Class project, Spring 2019, Team 2.   Authors: Neal Cheng, Joshua Sherfey, Oren Tevat, Kevin Zhu  
+Natural Language Processing on MIMIC III dataset - CSE6250 Class project, Spring 2019, Team 2.   Authors: Neal Cheng, Joshua Sherfey, Oren Tevet, Kevin Zhu  
 
 **Environment setup:**
 
